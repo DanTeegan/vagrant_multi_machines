@@ -25,6 +25,8 @@ Once the virtual machines are running we can then test the packages by using the
 rake spec
 ```
 
+This command should test the features and return pass if succesfull or failed if unsuccesfull
+
 please check the visual guide if you need more assistance
 
 
