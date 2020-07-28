@@ -1,5 +1,13 @@
 ### Multi-variant machines
-Welcome to Daniels repository which utilises multi variant machines. This is commonly known as a multi-machine environment.
+Welcome to my repository which utilises multi variant machines. This is commonly known as a multi-machine environment.
+
+The task set was as follows:
+
+- Research how to create a multi machine vagrant environment
+- Add a second virtual machine called "db" to your Vagrant file
+- Configure the db machine with a different IP from the app
+- Provision the db machine with a MongoDB database
+
 To get multi machines running’s please make sure you have the following installed:
 
 - vagrant
